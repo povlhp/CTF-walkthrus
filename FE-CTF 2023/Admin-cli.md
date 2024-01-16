@@ -157,7 +157,7 @@ Yes, our URL changed, we have a flag before the @ - but it is not compliant with
 Since it is web it could be base64 encoded, and the = in the end helps make this likely. So base64 decode the username, and you will get:
 flag{UN3XP3CT3D_3XF1LTR4T10N}
 
-Lots of point :-)
+Lots of points :-)
 
 
 
